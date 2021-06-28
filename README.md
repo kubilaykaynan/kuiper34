@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuiper34
+- 👋 Hi, I’m @kubilaykaynan
 - 👀 I’m interested in react-native js
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me kubilaykaynan59@gmail.com
